@@ -1,0 +1,3 @@
+Gamer Gallery is a application based on pinterest. Using Descritions and genres for the video games. with the description they give you this information. Game genre, Best Video games to play in those genres, and a picture with a button link ton the board of that genre game.
+this idea was made to give people a easier time with either starting video games or to help people find new video games that align with what theyve been looking for in each genre. This application includes multiple pages. Starting with a Splash page,
+moving into the homescreen with the buttons to each genres description, then the link sends you to pinterest. 
